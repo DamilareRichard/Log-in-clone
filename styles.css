@@ -8,7 +8,7 @@ box-sizing: border-box;
 body{
 	margin: 100px;
 	padding: 100px;
-	min-height: 10vh;
+	min-height: 30vh;
 	background: url(syter.jpg);
 	background-size: cover;
 	border-image-slice: none;
@@ -93,7 +93,7 @@ h1{
 	body{
 		margin: 150px;
 		padding: 150px;
-		overflow: hidden;
+		
 	}
 	.loginbox{
 		width: 300px;
@@ -101,6 +101,7 @@ h1{
 		top: 55%;
 		left: 55%;
 		margin top: 50px;
+		box-sizing: border-box;
 	}
 	h1{
 		text-align: center;
